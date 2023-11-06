@@ -9,12 +9,12 @@ currently a student at the University of Freiburg
 
 ### Skills
 
-
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,cs,js,html,css,c,haskell,mysql,arduino,unity,git,linux" />
   </a>
 </p>
+
 ### GitHub Stats
 
 
