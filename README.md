@@ -9,7 +9,7 @@ Currently a student at the University of Freiburg
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,mysql,cs,haskell,arduino,js,html,css,c,unity,git,linux" />
+    <img src="https://skillicons.dev/icons?i=python,mysql,cs,arduino,js,html,css,c++,unity,git,linux" />
   </a>
 </p>
 
