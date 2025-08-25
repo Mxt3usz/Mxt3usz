@@ -4,6 +4,7 @@ Currently a student at the University of Freiburg
 * 🌍  I'm based in Ettenheim
 * ✉️  You can contact me at [mateuszgawior@yahoo.de](mailto:mateuszgawior@yahoo.de)
 * 🧠  I'm currently learning HTML, CSS, and JS
+* Leetcode: https://leetcode.com/u/Mxt3usz/
 
 ### Skills
 
